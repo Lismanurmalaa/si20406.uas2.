@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1039857178509",
+    "project_id": "uaskontak",
+    "storage_bucket": "uaskontak.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1039857178509:android:e99aba1fe1bca99f008fc4",
+        "android_client_info": {
+          "package_name": "com.example.uaskontak"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1039857178509-lf437ni7q6ljvhkeot6b0e7cnv9ld0jc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDHZWxrToAjGf9jRBiFGWE-fU9E5tGZKKc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1039857178509-lf437ni7q6ljvhkeot6b0e7cnv9ld0jc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
